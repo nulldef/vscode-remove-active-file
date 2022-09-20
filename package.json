@@ -3,6 +3,7 @@
   "displayName": "remove-active-file",
   "publisher": "nulldef",
   "description": "Remove the currently opened file as easy as it can be",
+  "repository": "https://github.com/nulldef/vscode-remove-active-file",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
